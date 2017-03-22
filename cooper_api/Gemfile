@@ -9,7 +9,7 @@ gem 'jbuilder', '~> 2.5'
 # making cross-origin AJAX possible
 gem 'rack-cors', require: 'rack/cors'
 gem 'devise_token_auth'
-gem 'omniauth'
+#gem 'omniauth'
 
 group :development, :test do
   gem 'rspec-rails'

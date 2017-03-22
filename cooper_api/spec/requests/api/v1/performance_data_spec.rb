@@ -25,5 +25,5 @@ RSpec.describe Api::V1::PerformanceDataController, type: :request do
     end
   end
 
-  
+
 end
